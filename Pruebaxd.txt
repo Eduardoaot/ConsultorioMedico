@@ -2,4 +2,8 @@ Hola xd
 
 Tremedo cambio xd
 
+<<<<<<< HEAD
 Otra cosa xd
+=======
+Otro cambio
+>>>>>>> 7e5a20c66f486dd4e346928597bbbe3f14b61b30
